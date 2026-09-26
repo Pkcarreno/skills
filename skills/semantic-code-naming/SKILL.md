@@ -1,10 +1,7 @@
-
 ---
 name: semantic-code-naming
 description: Apply semantic grammar rules, intent-based naming, and structural patterns (such as Action, High Context, Low Context or A/HC/LC) to variables, functions, and classes. Use this skill when writing new code, refactoring identifiers, or reviewing code for readability. Do not use this skill for formatting checks, indentation, or casing linters.
 ---
-
-# Semantic Code Naming
 
 Define the intent and semantics of code identifiers to make code clear and maintainable.
 
