@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "author": "Pedro Carreño",
+  "originalAuthor": "Vercel Labs",
+  "license": "MIT",
+  "framework": "SolidJS",
+  "forkedFrom": "https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns",
+  "date": "September 2026",
+  "abstract": "SolidJS composition patterns for building flexible, maintainable components. Direct adaptation of Vercel Labs composition-patterns for SolidJS, replacing React-specific hooks and virtual DOM conventions with fine-grained reactivity, proxy prop getters, splitProps, and Solid context.",
+  "references": [
+    "https://solidjs.com",
+    "https://docs.solidjs.com/concepts/components/props",
+    "https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns"
+  ]
+}
