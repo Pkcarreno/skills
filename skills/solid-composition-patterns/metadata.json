@@ -1,15 +1,17 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Pedro Carreño",
   "originalAuthor": "Vercel Labs",
   "license": "MIT",
-  "framework": "SolidJS",
+  "framework": "SolidJS 2.0",
   "forkedFrom": "https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns",
-  "date": "September 2026",
-  "abstract": "SolidJS composition patterns for building flexible, maintainable components. Direct adaptation of Vercel Labs composition-patterns for SolidJS, replacing React-specific hooks and virtual DOM conventions with fine-grained reactivity, proxy prop getters, splitProps, and Solid context.",
+  "date": "November 2026",
+  "abstract": "Solid 2.0 component composition patterns for scalable UI architecture. Rebuilt from zero around Solid 2.0 proxy props (omit, merge), direct context components, ref arrays and directive factories, async graph holds and boundaries (Loading, Errored, Reveal, isPending, latest), draft-first stores, projections, and optimistic generator actions.",
   "references": [
-    "https://solidjs.com",
-    "https://docs.solidjs.com/concepts/components/props",
+    "https://docs.solidjs.com/concepts/components-and-jsx",
+    "https://docs.solidjs.com/concepts/async-reactivity",
+    "https://docs.solidjs.com/concepts/boundaries",
+    "https://docs.solidjs.com/concepts/mutations",
     "https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns"
   ]
 }
